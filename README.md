@@ -7,5 +7,6 @@ En este curso vemos de todo
 - Flujo de trabajo de Github
 - El amor por las buenas practicas
 - Trucos locos
+- fue creado por mi ser
 
 :fa-heart:
