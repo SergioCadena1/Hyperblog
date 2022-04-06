@@ -8,5 +8,6 @@ En este curso vemos de todo
 - El amor por las buenas practicas
 - Trucos locos
 - fue creado por mi ser
+- incluye ejemplos varios
 
 :fa-heart:
